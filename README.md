@@ -133,4 +133,4 @@ Normal thermal readings
 
 Stable performance before crash time threshold
 
-Rolling back the driver using DDU and installing a previous stable version resolved the issue, with successful extended gameplay afterward. This reinforced the root cause: GPU driver instability likely introduced in a newer version incompatible with the hardware. this is what i have
+Rolling back the driver using DDU and installing a previous stable version resolved the issue, with successful extended gameplay afterward. This reinforced the root cause: GPU driver instability likely introduced in a newer version incompatible with the hardware.
