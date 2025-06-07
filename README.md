@@ -112,8 +112,8 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
 * Windows Event Log and Reliability Monitor usage
 * Client guidance and issue resolution
 
-🗒️ Notes & Thought Process
-The issue was initially described vaguely by the client as a “glitching sound”. At first, I suspected either a hard drive issue or a speaker-related problem, but upon further questioning and behavior observation, it became clear that the system was crashing during gameplay, specifically in Left 4 Dead 2 and Marvel Rivals.
+## 🗒️ Notes & Thought Process
+The client initially described the issue vaguely as a “glitching sound.” At first, I suspected either a hard drive or speaker-related problem. However, after further questioning and observing system behavior, it became clear the crashes consistently occurred during gameplay, specifically in Left 4 Dead 2 and Marvel Rivals. Testing revealed that Left 4 Dead 2 ran relatively well, likely because it is CPU-intensive, so I focused troubleshooting on Marvel Rivals, a GPU-intensive game that reliably caused the laptop to crash. Unfortunately, I was only able to capture some of the error screenshots, but overall, the errors strongly pointed to GPU hangs both at the system and application levels.
 
 Additional indicators included:
 
