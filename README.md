@@ -28,6 +28,7 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
   * Faulty or unstable GPU drivers
   * GPU overheating
   * Insufficient power or system instability
+  
  ![141](GitHub/141.png)
 
 ### 🔻 Event ID 10029 (System Log)
@@ -39,6 +40,8 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
   * Faulty hardware communication
   * Driver crashes or hangs
 
+ ![Hardware](GitHub/Hardware.png)
+
 ### 🔻 Event ID 78 (Application Log)
 
 * **Description**: A user-mode application error; in this context, likely caused by a game or driver service failure.
@@ -47,6 +50,8 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
 
   * Crashes in GPU-intensive applications
   * Bad game patches or unstable drivers
+
+ ![Application](GitHub/Bex.png)
 
 ---
 
