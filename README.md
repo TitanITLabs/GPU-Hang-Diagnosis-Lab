@@ -51,7 +51,7 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
   * Crashes in GPU-intensive applications
   * Bad game patches or unstable drivers
 
- ![Application](GitHub/Bex.png)
+ ![Application](GitHub/BEX.png)
 
 ---
 
