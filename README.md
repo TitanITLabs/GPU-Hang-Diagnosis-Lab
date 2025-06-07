@@ -45,7 +45,7 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
 ### 🔻 Event ID 78 and BEX (Application Log)
 
 * **Description**: A user-mode application error; in this context, likely caused by a game or driver service failure.
-* **Impact**: May result in the crashing of an application (e.g., Marvel Rivals)
+* **Impact**: May result in the crashing of an application (e.g., Marvel Rivals, Left 4 Dead 2)
 * **Common Causes**:
 
   * Crashes in GPU-intensive applications
