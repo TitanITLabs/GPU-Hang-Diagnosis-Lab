@@ -8,11 +8,11 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
 
 ## 🖥️ Hardware Specifications
 
-**Device Type**: Gaming Laptop
-**GPU**: NVIDIA (model matched via laptop specs)
-**CPU**: \[Insert model if available]
-**RAM**: \[Insert RAM size]
-**Operating System**: Windows 10/11
+**Device Type**: Katana 17 B13VGK
+**GPU**: NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6
+**CPU**: Up to 13th Gen Intel® Core™ i7 Processor
+**RAM**: 64 GBs DDR5-5200
+**Operating System**: Windows 11
 **Max GPU Temp Observed**: 86°C
 
 ---
@@ -28,6 +28,7 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
   * Faulty or unstable GPU drivers
   * GPU overheating
   * Insufficient power or system instability
+ ![141](GitHub/141.png)
 
 ### 🔻 Event ID 10029 (System Log)
 
