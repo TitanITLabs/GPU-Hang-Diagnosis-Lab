@@ -10,7 +10,7 @@ To remotely diagnose and resolve repeated GPU hangs and system freezes during ga
 
 **Device Type**: Katana 17 B13VGK
 **GPU**: NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6
-**CPU**: Up to 13th Gen Intel® Core™ i7 Processor
+**CPU**: 13th Gen Intel® Core™ i7 Processor
 **RAM**: 64 GBs DDR5-5200
 **Operating System**: Windows 11
 **Max GPU Temp Observed**: 86°C
